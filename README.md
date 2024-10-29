@@ -22,4 +22,4 @@ For a complete list of years the challenge was available see:
 
 _(last updated ![last commit](https://img.shields.io/github/last-commit/joewoess/AdventOfCodeOverview))_
 
-### _Go try it yourself, give that cool new coding language a try or just simply enjoy a good puzzle_
+#### _Go try it yourself, give that cool new coding language a try or just simply enjoy a good puzzle_
