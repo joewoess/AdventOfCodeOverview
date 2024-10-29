@@ -1,0 +1,9 @@
+site_name: AdventOfCode Overview
+plugins:
+  - search
+  - authors
+  - git-authors
+
+markdown_extensions:
+  - toc
+  - meta
