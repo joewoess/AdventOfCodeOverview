@@ -20,6 +20,6 @@ For a complete list of years the challenge was available see:
 | [2023](https://adventofcode.com/2023) | [repo link]() |   _partial_   |
 | [2024](https://adventofcode.com/2024) | [repo link]() |       -       |
 
-_(last updated {{ git_page_last_updated }})_
+_(last updated ![last commit](https://img.shields.io/github/last-commit/joewoess/AdventOfCodeOverview))_
 
 ### _Go try it yourself, give that cool new coding language a try or just simply enjoy a good puzzle_
